@@ -1,0 +1,5 @@
+
+------ HiLike Project Credentials ------
+server name = mercury
+username = mercury_hilike
+password = hilike@123
